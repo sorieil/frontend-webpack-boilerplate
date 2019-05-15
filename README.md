@@ -1,3 +1,4 @@
+[![Board Status](https://sroieil.visualstudio.com/7872c031-c665-4636-af90-92caa0e36ee7/3838de20-f614-4827-9252-b9886c8c97a1/_apis/work/boardbadge/940d90cc-e366-4227-ab83-6dfa78fdb8ef)](https://sroieil.visualstudio.com/7872c031-c665-4636-af90-92caa0e36ee7/_boards/board/t/3838de20-f614-4827-9252-b9886c8c97a1/Microsoft.RequirementCategory)
 # Webpack 4 Boilerplate
 
 [![Known Vulnerabilities](https://snyk.io/test/github/WeAreAthlon/frontend-webpack-boilerplate/badge.svg?targetFile=package.json)](https://snyk.io/test/github/WeAreAthlon/frontend-webpack-boilerplate?targetFile=package.json)
